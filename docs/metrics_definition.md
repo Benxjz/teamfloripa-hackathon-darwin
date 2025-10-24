@@ -14,9 +14,9 @@ Essas métricas mostram o quanto o assistente segue sua missão, mantém coerên
 |----------|-------------|----------------|
 | **overallScore** | Nota geral da conversa | Média das demais métricas. Representa o desempenho total do assistente. |
 | **adherenceToMission** | Aderência à missão original | Verifica se o assistente cumpre o objetivo definido no `<mission>`. |
-| **contextCoherence** | Coerência de contexto | Mede se as respostas mantêm o raciocínio e não se contradizem. |
-| **guidelineCompliance** | Conformidade com regras e templates | Avalia o uso correto de *Transition Tools*, *Prompt Templates* e tom de voz. |
-| **responseQuality** | Clareza e utilidade das respostas | Verifica se o conteúdo é claro, completo e útil para o usuário. |
+| **contextCoherence** | Coerência contextual | Mede se as respostas mantêm o raciocínio e não se contradizem. |
+| **guidelineCompliance** | Seguimento de Diretrizes | Avalia o uso correto de *Prompt Templates* e tom de voz. |
+| **responseQuality** | Qualidade das respostas | Verifica se o conteúdo é claro, completo e útil para o usuário. |
 
 ---
 
