@@ -20,10 +20,9 @@ Hoje, os times da Darwin e os clientes precisam avaliar manualmente se um assist
 Essa ferramenta automatiza esse processo, gerando confiança, agilidade e transparência no produto.
 
 ## 🧩 Contexto de desenvolvimento
-
-Inicialmente usamos o Vercel v0 para acelerar a construção da interface**, e a partir daí estamos implementando **ajustes e camadas complementares** que adicionam lógica de avaliação, cálculo de métricas e integração com a plataforma Darwin AI.  
+Inicialmente usamos o Vercel v0 para acelerar a construção da interface, e a partir daí estamos implementando **ajustes e camadas complementares** que adicionam lógica de avaliação, cálculo de métricas e integração com a plataforma Darwin AI.  
 Este repositório concentra **o backend, documentação técnica e explicação** que somam ao código gerado no Vercel.
----
+
 ## Configuração
 
 ### 1. Adicionar API Key do OpenAI
@@ -60,7 +59,6 @@ Para usar a análise de conversas, você precisa adicionar sua API key do OpenAI
 ### 4. Custos
 
 A análise usa a API do OpenAI (GPT-4), que tem custos associados. Cada análise consome tokens baseado no tamanho da conversa. Monitore seu uso em [platform.openai.com/usage](https://platform.openai.com/usage).
-
 ---
 
 ## 📊 Métricas Avaliadas
