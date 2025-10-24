@@ -23,6 +23,7 @@ Este documento resume o que já foi desenvolvido e o que está planejado para as
 |------------|------------|
 | ☐ **Checklist Automatizado de Lançamento** | Verifica se o assistente está pronto para produção: missão definida, base de conhecimento preenchida, FAQ configurada e canal integrado. |
 | ☐ **Histórico de Desempenho** | Armazena as métricas ao longo do tempo e exibe gráficos de evolução e comparativos entre assistentes. |
+| ☐ **Contatos** | Análise por meio da aba de Contatos na plataforma com botão "Desempenho do Worker", onde é possível aplicar os filtros.
 
 ---
 
