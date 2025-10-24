@@ -44,7 +44,7 @@ Para usar a análise de conversas, você precisa adicionar sua API key do OpenAI
 4. Cada conversa recebe:
    - Pontuação geral (0-100)
    - Métricas detalhadas (aderência à missão, coerência, diretrizes, qualidade)
-   - Análise linha por linha
+   - Análise por bloco de mensagens da IA
    - Identificação de desvios
    - Sugestões de melhoria
 
