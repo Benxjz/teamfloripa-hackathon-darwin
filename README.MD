@@ -25,7 +25,7 @@ Permite seguir métricas de performance, evolución y adherencia al prompt confi
    - Métricas detalladas (adherencia a la misión, coherencia, cumplimiento de directrices, calidad);  
    - Análisis por bloque de mensajes del asistente;  
    - Identificación de desvíos;  
-   - Sugerencias de mejora.
+   - Sugerencias de mejora
 
 ---
 
